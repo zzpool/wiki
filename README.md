@@ -5,28 +5,24 @@
 ## 使用中转平台
 中转平台在矿机和海外矿池之间搭建了双向的连接桥梁。矿机用户可以像直接连接矿池一样使用中转平台提供的地址。优秀的中转平台应该做到延迟低（减少无效哈希计算）、抽水少、长期稳定。
 
-这里推荐使用zzpool.cc (ZhongZhuan Pool CryptoCurrency)中转平台，支持几乎全部海外矿池，超低延迟（10ms-30ms），低至0.3%的抽水（平稳无暗抽+抽水信息全公开），且支持分享返还佣金。
+这里推荐使用 [zzpool.cc](http://zzpool.cc)  (ZhongZhuan Pool for CryptoCurrency) 中转平台：
+* 支持几乎全部海外矿池
+* 超低延迟（10ms-30ms）
+* 低至0.3%的抽水（平稳无暗抽+[抽水信息公开透明](http://zzpool.cc)）
+* 支持分享返还佣金，返还0.5%（欢迎有意向者 [邮件联系zzpool.cc@gmail.com](mailto:zzpool.cc@gmail.com) 提供返还地址或用户名，获得自主的中转端口）。名额有限，[目前剩 19 个位置](http://zzpool.cc)
+* 我们将开放中转抽水软件的下载（抽水0.5%，稍后给出下载链接），欢迎大家自行搭建中转平台，为更多矿工服务
 
-同时，我们将开放中转抽水软件的下载（抽水0.5%，稍后发布），欢迎大家自行搭建中转平台，为更多人服务。
-
-
-zzpool.cc:6000 中转鱼池F2Pool
-
-zzpool.cc:6001 中转E池Ethermine
-
-zzpool.cc:6002 中转币安Binance
-
-zzpool.cc:6003 中转蚂蚁AntPool
-
-zzpool.cc:6004 中转币印Poolin
-
-zzpool.cc:6005 中转HiveOn
-
-zzpool.cc:6006 中转2Miners
-
-zzpool.cc:6007 中转Nanopool
-
-zzpool.cc:6008 中转FlexPool
+| 地址端口 | 中转矿池 |
+| :----: | :----: |
+| zzpool.cc:6000 | 鱼池F2Pool |
+| zzpool.cc:6001 | E池Ethermine |
+| zzpool.cc:6002 | 币安Binance |
+| zzpool.cc:6003 | 蚂蚁AntPool |
+| zzpool.cc:6004 | 币印Poolin |
+| zzpool.cc:6005 | HiveOn |
+| zzpool.cc:6006 | 2Miners |
+| zzpool.cc:6007 | Nanopool |
+| zzpool.cc:6008 | FlexPool |
 
 
 ## 自搭中转服务器
