@@ -11,13 +11,22 @@
 
 
 zzpool.cc:6000 中转鱼池F2Pool
+
 zzpool.cc:6001 中转E池Ethermine
+
 zzpool.cc:6002 中转币安Binance
+
 zzpool.cc:6003 中转蚂蚁AntPool
+
 zzpool.cc:6004 中转币印Poolin
+
 zzpool.cc:6005 中转HiveOn
+
 zzpool.cc:6006 中转2Miners
+
 zzpool.cc:6007 中转Nanopool
+
 zzpool.cc:6008 中转FlexPool
+
 
 ## 自搭中转服务器
