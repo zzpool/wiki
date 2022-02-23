@@ -12,17 +12,17 @@
 |             | eu1.ethermine.org                          | ssl: 5555                                 |                |                                                                            |
 |             | us1.ethermine.org                          |                                           |                |                                                                            |
 |             | us2.ethermine.org                          |                                           |                |                                                                            |
-| 币安binance   | stratum+tcp://ethash.poolbinance.com:8888  | stratum+tcp://ethash.poolbinance.com:3333 | zzpool.cc:6002 | https://www.binance.com/zh-CN/support/faq/32843190fc1c4329a4df024339efa8d8 |
-|             | stratum+tcp://ethash.poolbinance.com:1800  | stratum+tcp://ethash.poolbinance.com:25   |                | https://pool.binancezh.sh/en                                               |
+| 币安binance   | stratum+tcp://ethash.poolbinance.com:8888  | 3333 | zzpool.cc:6002 | https://www.binance.com/zh-CN/support/faq/32843190fc1c4329a4df024339efa8d8 |
+|             | stratum+tcp://ethash.poolbinance.com:1800  | 25   |                | https://pool.binancezh.sh/en                                               |
 |             | stratum+tcp://ethash.poolbinance.com:443   |                                           |                |                                                                            |
 |             |                                            |                                           |                |                                                                            |
 |             |                                            |                                           |                |                                                                            |
-| 蚂蚁antpool   | stratum+tcp://stratum-eth.antpool.com:8008 | stratum+tcp://stratum-eth.antpool.com:443 | zzpool.cc:6003 | https://v3.antpool.com/home                                                |
+| 蚂蚁antpool   | stratum+tcp://stratum-eth.antpool.com:8008 | 443 | zzpool.cc:6003 | https://v3.antpool.com/home                                                |
 |             | stratum+tcp://stratum-eth.antpool.com:25   |                                           |                |                                                                            |
 |             |                                            |                                           |                |                                                                            |
 |             |                                            |                                           |                |                                                                            |
 |             |                                            |                                           |                |                                                                            |
-| 币印poolin    | stratum+tcp://eth.ss.poolin.me:443         | stratum+tcp://eth.ss.poolin.me:1883       | zzpool.cc:6004 | https://www.poolin.com/                                                    |
+| 币印poolin    | stratum+tcp://eth.ss.poolin.me:443         | 1883       | zzpool.cc:6004 | https://www.poolin.com/                                                    |
 |             | stratum+tcp://eth.ss.poolin.me:700         |                                           |                |                                                                            |
 |             |                                            |                                           |                |                                                                            |
 |             |                                            |                                           |                |                                                                            |
