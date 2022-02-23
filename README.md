@@ -37,7 +37,7 @@
 | LayerStack | [https://www.layerstack.com/pricing-cloud-servers](https://www.layerstack.com/pricing-cloud-servers)  | 最低配R108-HK服务器约1600元/年 | CN GIA2直连延迟低约25ms，支持支付宝支付 |
 
 ### 2.2 Windows网络转发设置
-若选择了windows server系统服务器，可参考 [常用矿池地址列表] 和https://zhuanlan.zhihu.com/p/435025766 进行矿池端口转发
+若选择了windows server系统服务器，可参考 [常用矿池地址列表](https://github.com/zzpool/wiki/blob/main/ETHlist.md) 和https://zhuanlan.zhihu.com/p/435025766 进行矿池端口转发
 （1）登录到服务器后，打开windows PowerShell命令行
 
 （2）输入代码：
@@ -50,7 +50,7 @@ netsh interface portproxy add v4tov4 listenport=14444 connectaddress=asia2.ether
 
 
 ### 2.3 Ubuntu/Debian网络转发设置
-若选择了Ubuntu/Debian系统的服务器，可参考 [常用矿池地址列表] 和https://github.com/guanguiwensy/redirpool 进行矿池端口转发
+若选择了Ubuntu/Debian系统的服务器，可参考 [常用矿池地址列表](https://github.com/zzpool/wiki/blob/main/ETHlist.md) 和https://github.com/guanguiwensy/redirpool 进行矿池端口转发
 
 
  #### 方法一 redir
