@@ -11,7 +11,7 @@
 * 低至0.3%的抽水（平稳无暗抽+[抽水信息公开透明](http://zzpool.cc)）
 * 币安Binance/欧意OKX永久免费（0.0%抽水）
 * **免费试用18小时**（自动统计每用户使用时长）
-* 全面支持安全防探测的SSL链接
+* 全面支持安全防探测的SSL链接（需设置挖矿程序使用stratum+ssl协议）
 * 支持分享返还佣金，返还0.5%（欢迎有意向者邮件联系 [zzpool.cc@gmail.com](mailto:zzpool.cc@gmail.com) 提供返还地址或用户名，获得独立的中转端口）。名额有限，[目前剩 9 个位置](http://zzpool.cc)
 * 开放中转抽水软件的下载（抽水0.5%，稍后给出下载链接），欢迎大家自行搭建中转平台，为更多矿工服务
 
@@ -26,15 +26,17 @@
 | zzpool.cc:6006 | 2Miners |
 | zzpool.cc:6007 | Nanopool |
 | zzpool.cc:6008 | FlexPool |
-| zzpool.cc:6020 | 鱼池F2Pool SSL |
-| zzpool.cc:6021 | E池Ethermine SSL |
-| zzpool.cc:6022 | 币安Binance SSL |
-| zzpool.cc:6023 | 蚂蚁AntPool SSL |
-| zzpool.cc:6024 | 币印Poolin SSL |
-| zzpool.cc:6025 | HiveOn SSL |
-| zzpool.cc:6026 | 2Miners SSL |
-| zzpool.cc:6027 | Nanopool SSL |
-| zzpool.cc:6028 | FlexPool SSL |
+| zzpool.cc:6009 | 欧意OKX |
+| zzpool.cc:6050 | 鱼池F2Pool SSL |
+| zzpool.cc:6051 | E池Ethermine SSL |
+| zzpool.cc:6052 | 币安Binance SSL |
+| zzpool.cc:6053 | 蚂蚁AntPool SSL |
+| zzpool.cc:6054 | 币印Poolin SSL |
+| zzpool.cc:6055 | HiveOn SSL |
+| zzpool.cc:6056 | 2Miners SSL |
+| zzpool.cc:6057 | Nanopool SSL |
+| zzpool.cc:6058 | FlexPool SSL |
+| zzpool.cc:6059 | 欧意OKX SSL |
 
 
 ## 2. 自搭中转服务器
