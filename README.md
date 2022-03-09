@@ -5,7 +5,7 @@
 ## 1.使用中转平台
 中转平台在矿机和海外矿池之间搭建了双向的连接桥梁。矿工可以像直接连接矿池一样使用中转平台提供的地址。优秀的中转平台应该做到延迟低（减少无效哈希计算）、抽水少、长期稳定。
 
-这里推荐使用 [zzpool.cc](http://zzpool.cc) 中转平台 (Telegram **中转交流圈** [t.me/zzpool](t.me/zzpool))：
+这里推荐使用 [zzpool.cc](http://zzpool.cc) 中转平台 (Telegram **中转交流圈** [t.me/zzpool](http://t.me/zzpool))：
 * 支持几乎全部ETH海外矿池
 * 超低延迟（10ms-30ms）
 * 低至0.3%的抽水（平稳无暗抽+[抽水信息公开透明](http://zzpool.cc)）
@@ -42,7 +42,7 @@
 ## 2. 安全的矿场中转服务
 
 除了面向矿工，zzpool.cc 还提供最安全的矿场中转方案，流量加密、混淆、伪装，且可防止挖矿软件Dev乱连。
-欢迎邮件联系或加入Telegram **中转交流圈** [t.me/zzpool](t.me/zzpool)
+欢迎邮件联系或加入Telegram **中转交流圈** [t.me/zzpool](http://t.me/zzpool)
 
 
 ## 3. 自搭中转服务器
