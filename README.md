@@ -5,7 +5,7 @@
 ## 1.使用中转平台
 中转平台在矿机和海外矿池之间搭建了双向的连接桥梁。矿工可以像直接连接矿池一样使用中转平台提供的地址。优秀的中转平台应该做到延迟低（减少无效哈希计算）、抽水少、长期稳定。
 
-这里推荐使用 [zzpool.cc](http://zzpool.cc) 中转平台：
+这里推荐使用 [zzpool.cc](http://zzpool.cc) 中转平台 (交流群Telegram: t.me/zzpool)：
 * 支持几乎全部ETH海外矿池
 * 超低延迟（10ms-30ms）
 * 低至0.3%的抽水（平稳无暗抽+[抽水信息公开透明](http://zzpool.cc)）
@@ -39,10 +39,16 @@
 | zzpool.cc:6059 | 欧意OKX SSL |
 
 
-## 2. 自搭中转服务器
+## 2. 安全的矿场中转服务
+
+除了面向矿工，zzpool.cc 还提供最安全的矿场中转方案，流量加密、混淆、伪装，且可防止挖矿软件Dev乱连。
+欢迎邮件联系或加入交流圈Telegram: t.me/zzpool
+
+
+## 3. 自搭中转服务器
 自搭中转服务器需要自行购买海外服务器，并设置网络端口转发。
 
-### 2.1 购买海外服务器
+### 3.1 购买海外服务器
 购买海外服务器首选地是**香港**（延迟20ms-60ms），次选日本、新加坡（延迟50ms-100ms）。综合价格、延迟、稳定性、支付便利性（支持支付宝或微信支付），推荐购买腾讯云、阿里云、LayerStack
 | 厂商 | 购买链接 | 价格 | 优缺点 |
 | :----: | :----: | :----: | :---- |
@@ -50,7 +56,7 @@
 | 阿里云 | https://www.aliyun.com/daily-act/ecs/activity_selection | 最低配香港直连服务器约1200元/年 | CN GIA2直连延迟低约30ms，支持支付宝支付 |
 | LayerStack | [https://www.layerstack.com/pricing-cloud-servers](https://www.layerstack.com/pricing-cloud-servers)  | 最低配R108-HK服务器约1600元/年 | CN GIA2直连延迟低约25ms，支持支付宝支付 |
 
-### 2.2 Windows网络转发设置
+### 3.2 Windows网络转发设置
 若选择了windows server系统服务器，可参考 [常用矿池地址列表](https://github.com/zzpool/wiki/blob/main/ETHlist.md) 和https://zhuanlan.zhihu.com/p/435025766 进行矿池端口转发
 （1）登录到服务器后，打开windows PowerShell命令行
 
@@ -63,7 +69,7 @@ netsh interface portproxy add v4tov4 listenport=14444 connectaddress=asia2.ether
 （4）通过windows服务器的IP地址和端口14444进行ethermine挖矿
 
 
-### 2.3 Ubuntu/Debian网络转发设置
+### 3.3 Ubuntu/Debian网络转发设置
 若选择了Ubuntu/Debian系统的服务器，可参考 [常用矿池地址列表](https://github.com/zzpool/wiki/blob/main/ETHlist.md) 和https://github.com/guanguiwensy/redirpool 进行矿池端口转发
 
 
